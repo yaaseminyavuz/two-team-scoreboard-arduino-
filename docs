@@ -1,0 +1,34 @@
+# Project Report: Two Team Scoreboard
+
+## Introduction
+This project simulates a digital scoreboard system used in sports.
+
+## Objective
+To design a system that tracks scores of two teams using microcontroller-based architecture.
+
+## Components
+- Arduino Uno
+- MAX7219 Display
+- Push Buttons
+- Buzzer
+
+## System Design
+
+### Input
+Buttons are used to increment scores.
+
+### Processing
+Arduino processes inputs and updates score variables.
+
+### Output
+Scores are displayed on 7-segment display.
+
+## Features
+- Score tracking
+- Countdown timer
+- Game over detection
+- Buzzer alert
+- Winner blinking display
+
+## Conclusion
+The project successfully demonstrates an embedded system for real-time score tracking.
