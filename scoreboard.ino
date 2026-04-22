@@ -110,3 +110,8 @@ void blinkWinner(){
     delay(300);
   }
 }
+// Two Team Scoreboard Project
+// Author: Yasemin Yavuz
+// Description:
+// Arduino-based scoreboard using MAX7219 display.
+// Features: score tracking, timer, buzzer alert, winner blinking. 
